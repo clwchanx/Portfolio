@@ -1,7 +1,6 @@
 # Portfolio
 These are projects done during my time as a student
 
-As of the moment, I have only completed one data analysis project. This said project is done in R and demonstrates my ability to use machine learning,
-specifically supervised learning to make predictions on a dataset.
-
-I anticipate to do more data analysis projects with my next major one involving Python and SQL.
+As of the moment, I have only completed two data analysis project. One is done in R and demonstrates my ability to use machine learning,
+specifically supervised learning to make predictions on a dataset. Another is done in Python where I web scraped 200 Linkedin job ads and performed some
+analysis on them.
